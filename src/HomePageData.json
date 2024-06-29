@@ -1,0 +1,545 @@
+{
+  "heroData": {
+    "bgImgLink": "/images/background/hero-bg.jpg",
+    "imgLink": "/images/section/hero-img.jpg",
+    "title": "Akram <br /> Freij",
+    "subTitle": "Hello, I’m",
+    "designation": "Web Developer"
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpg",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There!",
+    "subtitle": "I'm Akram Freij",
+    "text": "I am a Web Developer from Morocco with extensive experience in website design and development. I am also proficient in WordPress. I would love to discuss how we can create something unique together.",
+    "details": [
+      {
+        "title": "Age",
+        "info": "30"
+      },
+      {
+        "title": "Phone",
+        "info": "+212 656 246 627"
+      },
+      {
+        "title": "Email",
+        "info": "freij.akram@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Morocco"
+      },
+      {
+        "title": "Languages",
+        "info": "English, French, Arabic"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "/images/icon/icon1.png",
+        "title": "Custom Website Development",
+        "text": "Designing and developing bespoke websites tailored to client specifications and business needs.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/icon/icon2.png",
+        "title": "Website Maintenance and Optimization",
+        "text": "Providing ongoing support, updates, and performance optimization to keep websites secure, fast, and up-to-date.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/icon/icon3.png",
+        "title": "User Interface (UI) Design",
+        "text": "Crafting visually appealing and user-friendly interfaces that optimize user experience and engagement.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/icon/icon4.png",
+        "title": "Responsive Design and Development",
+        "text": "Creating websites that are optimized for various devices and screen sizes, ensuring consistent performance and usability.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/icon/icon5.png",
+        "title": "SEO Optimization",
+        "text": "Implementing strategies to improve search engine rankings and drive organic traffic to websites through keyword research, on-page optimization, and content strategy.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/icon/icon6.png",
+        "title": "E-commerce Business Solutions",
+        "text": "Developing and implementing online store functionalities, including shopping carts, payment gateways, and inventory management systems.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in that field of work are mentioned.",
+    "text": "I bring a wealth of expertise in web development and digital marketing, adept at crafting responsive interfaces and leveraging robust frameworks. My proficiency extends to designing visually compelling graphics and managing backend technologies for seamless user experiences. I also excel in implementing effective digital marketing strategies to enhance online presence and engagement.",
+    "skills": [
+      {
+        "title": "Basics : HTML, CSS , JavaScript",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Frameworks : Bootstrap, React.js, Angular.js, Vue.js",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Design : Figma, Adobe XD, Photoshop, Illustrator",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "Backend : Node.js, Express.js, MongoDB, Firebase",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Other : Git, GitHub, Vscode",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Digital Marketing : SEO, SEM, Google Analytics, facebook Ads",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "/images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "Trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "The latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/client/client1.png",
+        "title": "Kaoutar",
+        "designation": "CEO",
+        "text": "Working with Akram was a game-changer for us. Their expertise in web development and digital marketing helped us revamp our online presence and attract new customers. Highly recommended!"
+      },
+      {
+        "imgLink": "/images/client/client2.png",
+        "title": "Youssef",
+        "designation": "Executive Director",
+        "text": "Akram is a true professional. Their skills in frontend development and CMS platforms like WordPress are unparalleled. They delivered exactly what we needed, on time and within budget."
+      },
+      {
+        "imgLink": "/images/client/client3.png",
+        "title": "Lamiae",
+        "designation": "Managing Director",
+        "text": "We couldn't be happier with Akram's work. They transformed our startup's website into a sleek, responsive masterpiece. Their attention to detail and commitment to quality are exceptional."
+      },
+      {
+        "imgLink": "/images/client/client4.png",
+        "title": "Jaouad",
+        "designation": "CEO",
+        "text": "As a creative agency, we rely on developers who understand design and functionality. Akram exceeded our expectations with their ability to translate our visions into reality."
+      },
+      {
+        "imgLink": "/images/client/client5.png",
+        "title": "Simohammed",
+        "designation": "Executive Director",
+        "text": "Akram is our go-to for all things digital. Their SEO expertise has boosted our online visibility and patient engagement significantly. They're reliable, innovative, and always ahead of the curve."
+      },
+      {
+        "imgLink": "/images/client/client6.png",
+        "title": "Zakariae",
+        "designation": "Managing Director",
+        "text": "Partnering with Akram was the best decision we made for our online store. Their skills in eCommerce and UX/UI design helped us create a seamless shopping experience that our customers love."
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Education & Certifications",
+    "education": [
+      {
+        "title": "Front End Developer",
+        "duration": "2021 - Present",
+        "subTitle": "Freelancer",
+        "text": "Experienced Front End Developer specializing in WordPress and CMS platforms, transforming designs into responsive, SEO-optimized websites with custom functionalities and cross-platform compatibility."
+      },
+      {
+        "title": "Digital Marketer",
+        "duration": "2021 - Present",
+        "subTitle": "Freelancer",
+        "text": "Seasoned Digital Marketer with over 5 years of freelancing experience, delivering exceptional results across diverse clients by tailoring comprehensive digital strategies and maximizing ROI."
+      },
+      {
+        "title": "Engineering office manager",
+        "duration": "2019 - 2021",
+        "subTitle": "HOLDING ESCOT TELECOM",
+        "text": "As an Engineering Office Manager at HESCOT specializing in Orange FTTH projects, I optimize team operations to achieve a 90% client closure rate, enhancing project execution and customer satisfaction."
+      }
+    ],
+    "educationTitle": "Experience",
+    "experience": [
+      {
+        "title": "Software Engineer - Specialization in Front-end",
+        "duration": "2023 - 2024",
+        "subTitle": "Alx"
+      },
+      {
+        "title": "Bachelor's Degree in Economics",
+        "duration": "2013 - 2019",
+        "subTitle": "UNIVERSITÉ MOULAY ISMAIL MEKNÈS"
+      },
+      {
+        "title": "High School Diploma",
+        "duration": "2012 - 2013",
+        "subTitle": "LYCEE TECHNIQUE MOHAMMED 5"
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visite my social profile and get connected",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
+  },
+  "socialData": [
+    {
+      "icon": "github",
+      "title": "Github",
+      "link": "https://github.com/Breezy19"
+    },
+    {
+      "icon": "twitter",
+      "title": "Twitter",
+      "link": "https://x.com/akram_freij"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/akram-freij/"
+    }
+  ]
+}
